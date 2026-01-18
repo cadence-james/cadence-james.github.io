@@ -29,24 +29,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#15063c", //Background
-          lightgray: "#000000", //Code Background
+          light: "#12001a", //Background
+          lightgray: "#000020", //Code Background
           gray: "#b8b8b8", //"Search"
-          darkgray: "#f6d182", //Text, Mag. Glass
-          dark: "#be78ff", //Code, link icon
+          darkgray: "#f4ecd7", //Text, Mag. Glass
+          dark: "#8967a9", //Code, link icon
           secondary: "#3c9fe1", //Links (and headers)
-          tertiary: "#12d8a7", //Hovered link
+          tertiary: "#6efffd", //Hovered link
           highlight: "rgba(255, 255, 255, 0.15)", //?
           textHighlight: "#ffffff88", //?
         },
         darkMode: {
-          light: "#15063c", //Background
-          lightgray: "#000000", //Code Background
+          light: "#12001a", //Background
+          lightgray: "#000020", //Code Background
           gray: "#b8b8b8", //"Search"
-          darkgray: "#f6d182", //Text, Mag. Glass
-          dark: "#be78ff", //Code, link icon
+          darkgray: "#f4ecd7", //Text, Mag. Glass
+          dark: "#8967a9", //Code, link icon
           secondary: "#3c9fe1", //Links (and headers)
-          tertiary: "#12d8a7", //Hovered link
+          tertiary: "#6efffd", //Hovered link
           highlight: "rgba(255, 255, 255, 0.15)", //?
           textHighlight: "#ffffff88", //?
         },
