@@ -1,5 +1,5 @@
 ---
-title: About
+title: Home
 description: Hi, I'm Cadence! I study economics and philosophy (BA PPE) at Wadham College, Oxford.
 ---
 
@@ -9,9 +9,7 @@ description: Hi, I'm Cadence! I study economics and philosophy (BA PPE) at Wadha
      height=auto
      padding=40px/>
 
-Hi, I’m Cadence!
-
-I'm a second-year undergraduate studying economics and philosophy (BA PPE) at Wadham College, Oxford.
+Hi, I’m Cadence! I'm a second-year undergraduate studying economics and philosophy (BA PPE) at Wadham College, Oxford.
 
 This term, I’m leading the [[https://oaisi.org/|Oxford AI Safety Initiative’s]] AI governance roundtable and co-facilitating their fellowship on core topics in AI safety. Previously, I participated in their ML upskilling bootcamp and did research with Non-Trivial, the Sentience Institute, and Research Impact Oxford.
 
