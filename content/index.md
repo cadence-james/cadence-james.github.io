@@ -15,7 +15,7 @@ I'm a second-year undergraduate studying economics and philosophy (BA PPE) at Wa
 
 This term, I’ll be continuing to lead the [[https://oaisi.org/|Oxford AI Safety Initiative’s]] AI governance roundtable. Previously, I participated in their ML upskilling bootcamp and did research with Non-Trivial, the Sentience Institute, and Research Impact Oxford.
 
-I'll also be volunteering at Oxford's very own [[https://tais2026.cc/|Technical AI Safety Conference]]. I'll also be at EAG London on Sunday the 31st of March. 
+I'll be volunteering at Oxford's very own [[https://tais2026.cc/|Technical AI Safety Conference]], and I'll also be at EAG London on Sunday the 31st of March. 
 
 <img style="float: left; margin-right: 4%;"
      src="TopgunPhoto.jpg" 
