@@ -11,7 +11,8 @@ cadence.j.a.james@gmail.com · [LinkedIn](https://www.linkedin.com/in/cadence-j-
 *Oct 2024 – Jun 2027*
 - Distinction in Prelims, Examination Prize, Undergraduate Scholarship, Crankstart Scholar
 
-**Chipping Norton School** — *Sep 2017 – Jun 2024*
+**Chipping Norton School**
+*Sep 2017 – Jun 2024*
 - A-levels: Religious Studies, Mathematics, French, English Literature & EPQ
 
 ## Experience
