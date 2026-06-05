@@ -11,4 +11,5 @@ title: Things I'm interested in currently
 
 
  [^1]: The worst meal replacement drink I've had was actually a Huel lite, which should be at the bottom of the list were it not for the fact that I am, charitably, ranking them with respect to the best (see: my favourite) flavour/version of themselves.
+ 
  [^2]: In the sense that they're close enough to you that information about them can actually reach you.
