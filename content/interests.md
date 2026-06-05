@@ -9,7 +9,7 @@ title: Things I'm interested in currently
 - What I should be doing with the rest of my life (or, working towards over the next 3 months -> 5 years). 
 - What we might be able to do about all the stuff between the event horizon and the edge of the observable universe.
 
-As a general disclaimer, everything on this list is on this list because I want to know more about it (i.e. I feel like I don't know enough already, though how much I know about each still varies a lot). There are other topics that I like a lot that won't come up here for that reason.
+<!-- As a general disclaimer, everything on this list is on this list because I want to know more about it (i.e. I feel like I don't know enough already, though how much I know about each still varies a lot). There are other topics that I like a lot that won't come up here for that reason. --->
  
  [^2]: The worst meal replacement drink I've had was actually a Huel lite, which should be at the bottom of the list were it not for the fact that I am, charitably, ranking them with respect to the best (see: my favourite) flavour/version of themselves.
  
