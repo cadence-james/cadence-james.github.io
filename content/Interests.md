@@ -1,5 +1,5 @@
 ---
-title: Things I'm interested in currently[^1]
+title: Things I'm interested in currently
 ---
 
 - Which meal replacement shake tastes best. Currently, I've tried Huel, Soylent, Yfood, and Bol. IMO Yfood is the obvious winner and Bol the obvious loser, with Soylent just behind Yfood and Huel far behind that[^2]. But I'm open to suggestions.
