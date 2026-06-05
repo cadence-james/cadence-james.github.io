@@ -52,14 +52,14 @@ cadence.j.a.james@gmail.com · [LinkedIn](https://www.linkedin.com/in/cadence-j-
 *Jan 2025*
 - Two-week intensive bootcamp: built GPT-2-small from scratch, learned interpretability techniques, studied RLHF, and replicated key research papers via pair-programming.
 
-**WARP**  
+**WARP** — Participant
 *Apr 2025*
 - Selective 10-day intensive programme for mathematically gifted students, focused on applied rationality.
 
-**ESPR (European Summer Programme on Rationality)**  
+**ESPR (European Summer Programme on Rationality)** — Participant  
 *Aug 2024*
 - Selective 10-day intensive programme for mathematically gifted students, focused on applied rationality.
 
-**Non-Trivial Fellowship**  
+**Non-Trivial Fellowship** — Fellow  
 *Jul 2024 – Aug 2024*
 - Eight-week research fellowship culminating in a paper arguing that religious fundamentalism poses a major threat to democracy.
