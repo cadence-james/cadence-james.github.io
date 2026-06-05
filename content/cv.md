@@ -35,7 +35,7 @@ cadence.j.a.james@gmail.com · [LinkedIn](https://www.linkedin.com/in/cadence-j-
 
 ## Programmes & Fellowships
 
-**Centre on Long-Term Risk** — Summer Research Fellow
+**Centre on Long-Term Risk** — Summer Research Fellow  
 *Jun 2026 -*
 - Currently doing Macrostrategy research focused on thinking about when and how interventions might robustly reduce s-risks. 
 
