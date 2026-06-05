@@ -35,6 +35,10 @@ cadence.j.a.james@gmail.com · [LinkedIn](https://www.linkedin.com/in/cadence-j-
 
 ## Programmes & Fellowships
 
+**Centre on Long-Term Risk** — Summer Research Fellow
+*Jun 2026 -*
+- Currently doing Macrostrategy research focused on thinking about when and how interventions might robustly reduce s-risks. 
+
 **Research Impact Oxford** — Research Fellow  
 *Oct 2025 – Jan 2026*
 - Built a probabilistic forecast for Autonomous Mobile Robot adoption in US warehouses in 2028 and 2031.
