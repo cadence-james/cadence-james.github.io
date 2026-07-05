@@ -15,7 +15,7 @@ I'm a second-year undergraduate studying Economics and Philosophy (BA PPE) at Wa
 
 This term, I’ll be continuing to lead the [[https://oaisi.org/|Oxford AI Safety Initiative’s]] AI governance roundtable. Previously, I participated in their ML upskilling bootcamp and did research with Non-Trivial, the Sentience Institute, and Research Impact Oxford. Recently, I volunteered at Oxford's very own [[https://tais2026.cc/|Technical AI Safety Conference]]. 
 
-This summer, I'm mainly based in Oxford, doing the [[https://longtermrisk.org/summer-research-fellowship/|CLR Summer Research Fellowship]] (the Macrostrategy stream, in particular). If ever you're at Trajan House, Oxford, I'd love to chat! At the time of writing, next week, I'll be in Prague, Czechia, for [[https://humanaligned.ai/2026/|HAAISS]]. 
+This summer, I'm mainly based in Oxford, doing the [[https://longtermrisk.org/summer-research-fellowship/|CLR Summer Research Fellowship]] (the Macrostrategy stream, in particular). If ever you're at Trajan House, Oxford, I'd love to chat! Next week (at the time of writing), I'll be in Prague, Czechia, for [[https://humanaligned.ai/2026/|HAAISS]]. 
 
 <img style="float: left; margin-right: 4%;"
      src="TopgunPhoto.jpg" 
