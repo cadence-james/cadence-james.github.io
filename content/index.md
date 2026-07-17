@@ -23,7 +23,7 @@ This summer, I'm mainly based in Oxford, though I'm often in London, doing the [
      height=auto
      padding=40px/>
 
-I'm a [[https://fabric.camp|FABRIC]] alum (ESPR 2024, WARP 2025). Prior to university, I was a cheerleader and cheer coach; now, I row with my college, do gymnastics with the University, and occasionally get dragged on runs by my [[https://0ak.hu|girlfriend]]. This has had the unfortunate consequence of making [[https://strava.app.link/NmTU5QLKR2b|Strava]] the only form of social media I actively use.
+I'm a [[https://fabric.camp|FABRIC]] alum (ESPR 2024, WARP 2025). Prior to university, I was a cheerleader and cheer coach; now, I row with my college, do gymnastics with the University, and occasionally get dragged on runs by my [[https://0ak.hu|partner]]. This has had the unfortunate consequence of making [[https://strava.app.link/NmTU5QLKR2b|Strava]] the only form of social media I actively use.
 
 As of early May, 2026, I've mostly been focused on thinking about what I should do with the next ten years to have as much robustly positive impact as possible, applying to things that might help put my work in those ten years into the top 90% of possible outcomes, and considering what I can do Now to make myself Better At Doing Things. I'm very open to suggestions. 
 
