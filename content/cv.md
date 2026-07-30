@@ -17,9 +17,9 @@ title: CV
 
 ## Experience
 
-**Center on Long-Term Risk** — Macrostrategy Summer Research Fellow
-*Jun 2026 — Aug 2026*
-— Contributed to CLR's research programme via a range of short and long research projects and documents, some of which to be shared with the wider research community. 
+**Center on Long-Term Risk** — Summer Research Fellow (Macrostrategy)  
+*Jun 2026 – Aug 2026*
+- Contributed to CLR's research programme via a range of short and long research projects and documents, some of which to be shared with the wider research community. 
 
 **Oxford AI Safety Initiative** — Governance Roundtable Lead  
 *Jan 2026 – Jun 2026*
