@@ -3,7 +3,7 @@ title: CV
 ---
 [Download PDF](./CV.pdf)
 
-[firstnamedotjdotadotlastname]@gmail.com · [LinkedIn](https://www.linkedin.com/in/cadence-j-a-james) · [Calendly](calendly.com/cadencejames)
+[firstnamedotjdotadotlastname]@gmail.com · [LinkedIn](https://www.linkedin.com/in/cadence-j-a-james) · [[https://calendly.com/cadencejames|Calendly]]
 
 ## Education
 
