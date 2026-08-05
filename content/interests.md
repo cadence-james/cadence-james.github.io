@@ -8,7 +8,7 @@ title: Things I'm interested in currently
 - Whether or not one can possibly pick out individuals in large worlds. Probably not, I claim. At the very least, not outside what one can receive information about[^3] (and even that I'm not sure about!).
 - What I should be doing with the rest of my life (or, working towards over the next 3 months -> 5 years). 
 - What we might be able to do about all the stuff between the event horizon and the edge of the observable universe.
-- How likely future models are to be CDT-ish. 
+- How likely future AI models are to be CDT-ish. 
 
 <!-- As a general disclaimer, everything on this list is on this list because I want to know more about it (i.e. I feel like I don't know enough already, though how much I know about each still varies a lot). There are other topics that I like a lot that won't come up here for that reason. --->
  
