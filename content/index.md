@@ -13,7 +13,7 @@ Hi, I’m Cadence!
 
 I'm going into the third year of my undergraduate degree, studying Economics and Philosophy (BA PPE) at Wadham College, Oxford.
 
-Next school year, I’ll be getting more involved with organising for the Oxford AI Safety Initiative ([[https://oaisi.org/|OAISI]]). Previously, I organised OAISI's AI Governance Research Roundtable and participated in their ML upskilling bootcamp. I've also done research with Non-Trivial, the Sentience Institute, and Research Impact Oxford. Recently, I volunteered at Oxford's very own [[https://tais2026.cc/|Technical AI Safety Conference]], and at the most recent [[https://www.globalchallengesproject.org/|Global Challenges Project]] workshop. 
+Next school year, I’ll be getting more involved with organising for the Oxford AI Safety Initiative ([[https://oaisi.org/|OAISI]]). Previously, I organised OAISI's AI Governance Research Roundtable and participated in their ML upskilling bootcamp. I've also done research with the [[https://longtermrisk.org/|Center on Long-Term Risk]]. Recently, I volunteered at Oxford's very own [[https://tais2026.cc/|Technical AI Safety Conference]], and at the most recent [[https://www.globalchallengesproject.org/|Global Challenges Project]] workshop. 
 
 This summer, I'm mainly based in Oxford, though I'm often in London, doing the [[https://longtermrisk.org/summer-research-fellowship/|CLR Summer Research Fellowship]] (the Macrostrategy stream, in particular). If ever you're at Trajan House, Oxford, I'd love to chat! I'll be in the Bay Area between the 22nd of August and the 3rd of September, so reach out if you'd like to hangout (whether or not we've previously met)!
 
