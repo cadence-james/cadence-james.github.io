@@ -18,7 +18,7 @@ title: CV
 ## Experience
 
 **Redwood Research** — Contractor  
-*Oct 2026 —*
+*Oct 2026 –*
 
 **Oxford AI Safety Initiative** — Governance Roundtable Lead  
 *Jan 2026 – Jun 2026*
