@@ -1,5 +1,6 @@
 ---
 title: CV
+draft: true
 ---
 [Download PDF](./CV.pdf)
 
